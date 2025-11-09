@@ -1,5 +1,3 @@
-
-
 What’s Inside the Algorithm Types
 
 -Supervised Learning: Decision Trees, Random Forests, SVM, Linear Regression
